@@ -11,8 +11,6 @@ on:
         description: "Quante puntate"
         required: false
         default: "1"
-  schedule:
-    - cron: "0 6 * * 1"   # ogni lunedi alle 7 (ora italiana d'inverno): 3 puntate
 
 permissions:
   contents: write
