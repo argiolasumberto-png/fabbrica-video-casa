@@ -1,0 +1,16 @@
+Crea un video verticale 9:16 (1080x1920) di 15 secondi, animazione tecnica pulita in stile manuale tecnico. Sfondo color carta crema con griglia millimetrata leggera, cornice sottile scura, righello disegnato in basso. In alto al centro, piccolo e in maiuscolo, il titolo fisso "SMONTATO IN 60 SECONDI" e sotto, in rosso, "TERMOSIFONE". In alto a sinistra un'etichetta piccola con quadratino rosso che indica la vista (es. "VISTA ESTERNA", "SEZIONE A-A", "DETTAGLIO B"). Illustrazione 3D isometrica, linee nette, ombre morbide, nessuna persona tranne mani stilizzate. Colori: grigio chiaro e bianco per i corpi, rame per la fase, blu per neutro o acqua fredda, verde-giallo per la terra, rosso SOLO per evidenziare, pallini gialli che scorrono per mostrare il flusso (corrente, acqua, umidità). Etichette numerate nere su bianco, in italiano e maiuscolo (es. "01 ANELLO MAGNETICO"). La fascia tra il 70% e l'85% dell'altezza resta sempre vuota. Niente loghi, marchi o altro testo. Movimento continuo: l'inquadratura cambia o si anima ogni 2-3 secondi, mai fermo immagine.
+
+Questa è la parte 1 di 5 (inizio del video, nessuna parte precedente).
+
+Scaletta al secondo:
+0-2 s: VISTA ESTERNA. Un termosifone in ghisa bianco, a colonne verticali, appeso al muro, al centro dell'inquadratura. Camera ferma con leggerissimo avvicinamento. Scritte: nessuna oltre al titolo.
+2-4 s: VISTA ESTERNA. Una mano stilizzata entra da destra e si appoggia sulla parte BASSA del termosifone: compaiono pallini rossi e un leggero alone caldo. Subito dopo la mano sale e si appoggia sulla parte ALTA: compaiono pallini blu e un alone freddo. Scritte: nessuna.
+4-6 s: VISTA ESTERNA verso SEZIONE A-A. Zoom lento verso il centro del termosifone. Una linea rossa verticale scorre sul corpo e lo taglia in sezione. L'etichetta in alto a sinistra cambia in "SEZIONE A-A". Scritte: "SEZIONE A-A".
+6-7 s: SEZIONE A-A. Il corpo del termosifone si apre e diventa trasparente: si vedono le colonne vuote dall'interno, in grigio chiaro. Contorno rosso che lampeggia una volta sul bordo. Scritte: nessuna.
+7-10 s: SEZIONE A-A. Pallini gialli entrano da un lato, in basso, e iniziano a riempire il fondo delle colonne. Una freccia nera indica l'ingresso. Compare l'etichetta. Scritte: "01 ACQUA CALDA".
+10-12 s: SEZIONE A-A. I pallini gialli salgono lungo le colonne, tutte insieme. Le pareti di metallo si colorano di rame dal basso verso l'alto. Compare l'etichetta. Scritte: "02 COLONNA".
+12-15 s: SEZIONE A-A. I pallini continuano a salire e il rame sale con loro, fino a coprire tutto il termosifone. Camera in lento avvicinamento sulle colonne. Ultima inquadratura: sezione del termosifone tutta color rame, pallini gialli che scorrono pieni in tutte le colonne, etichette "01 ACQUA CALDA" e "02 COLONNA" visibili.
+
+Voce narrante maschile italiana, chiara, calda e sicura, ritmo veloce senza pause, che dice ESATTAMENTE queste frasi, sincronizzate con la scaletta: "Il termosifone è caldo sotto, freddo sopra. Guarda dentro. Ecco cosa succede davvero. Dentro scorre acqua calda. Sale lungo le colonne e scalda il metallo." Sotto la voce, base musicale elettronica leggera e bassa. Nessun sottotitolo nel video.
+
+Mantieni identici stile, colori e titolo per tutta la durata. Le scritte devono essere in italiano corretto, senza lettere sbagliate.
